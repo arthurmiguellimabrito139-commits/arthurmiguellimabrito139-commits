@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  📍 Goiânia, GO &nbsp;•&nbsp; 🎓 3º período de Ciência da Computação (UFG) &nbsp;•&nbsp; 💼 Disponível para estágio (30h/semana)
+  📍 Goiânia, GO &nbsp;•&nbsp; 🎓 4º período de Ciência da Computação (UFG) &nbsp;•&nbsp; 💼 Disponível para estágio (30h/semana)
 </p>
 
 ---
