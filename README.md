@@ -108,7 +108,6 @@ Projeto da disciplina de Banco de Dados: criação de banco relacional em Postgr
 ### 🏆 Cursos e certificações
 
 - ✅ Lógica de Programação
-- ✅ Python Básico ao Avançado
 - ✅ Java Orientação a Objetos
 - ✅ Banco de Dados e SQL
 - ✅ Git e GitHub
